@@ -1,0 +1,10 @@
+name: WorldReset
+version: 0.1
+author: Tempoo50
+main: de.mapreset.main.WorldReset
+
+commands:
+   save:
+      description: Welten speichern
+   load:
+      description: Welten laden
